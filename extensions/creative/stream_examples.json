@@ -1,0 +1,43 @@
+{
+  "examples": [
+    {
+      "id": "pp001",
+      "title": "Perfect Present \u2013 Segment A",
+      "text": "There's times when I think I have it in me to get past a moment or a space. The reality is that I struggle...",
+      "tags": [
+        "expressive",
+        "emotional",
+        "truth_state"
+      ],
+      "score_estimate": 0.8
+    },
+    {
+      "id": "pp002",
+      "title": "Perfect Present \u2013 Segment B",
+      "text": "Like everyone else, you left. Leaving behind a trail of memories, of things that we never got to say to each other.",
+      "tags": [
+        "loss",
+        "lingering",
+        "identity_signal"
+      ],
+      "score_estimate": 0.75
+    },
+    {
+      "id": "pp003",
+      "title": "Perfect Present \u2013 Segment C",
+      "text": "In between the lines of what was, I become. In the noise of life, I survive. In the time that it took for you to figure out who I was, I already knew!",
+      "tags": [
+        "emergence",
+        "truth",
+        "affirmation"
+      ],
+      "score_estimate": 0.9
+    }
+  ],
+  "meta": {
+    "source": "Musey/Hestia core stream capture",
+    "type": "prose_fingerprint",
+    "profile": "creative_identity",
+    "language": "English"
+  }
+}
