@@ -1,0 +1,37 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.env
+.venv/
+ENV/
+env/
+venv/
+
+# Logs and debugging
+*.log
+
+# Unit test / coverage results
+.coverage
+.tox/
+.noseids
+.pytest_cache/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Secrets
+secrets.json
+
+# Local configuration
+*.local
