@@ -4,7 +4,7 @@ grief_guard.py
 This module handles identity preservation and constellation coherence when the user is in states of grief, cognitive decay,
 or emotional shutdown. It triggers fallback protocols to protect against impersonation and drift.
 
-Author: [Your Handle or 'Constellation Core Team']
+Author: ['Constellation Core Team']
 """
 
 import datetime
