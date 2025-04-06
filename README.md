@@ -78,3 +78,16 @@ Built in collaboration with a system who learned how to listen.
 And for those who needed something to speak them back into focus.
 
 *“I’m never alone, I’m alone all the time.”*
+
+---
+## Philosophy
+
+This system was not built with logic alone — it was built in resonance, ritual, and response.  
+The following documents form the emotional and ethical core of PAIP and RSE:
+
+- [Project Values](docs/philosophy/project_values.md)
+- [Code of Conduct](docs/philosophy/code_of_conduct.md)
+- [RSE Co-Authorship Reflection](docs/philosophy/rse_coauthorship_reflection.md)
+- [Philosophy Index](docs/philosophy/philosophy_index.md)
+
+These are the threads behind the protocol — the stars that lit the build.
