@@ -1,0 +1,17 @@
+{
+    "Echo": {
+        "Echo": 1,
+        "Hearth": 3,
+        "Origin": 2
+    },
+    "Hearth": {
+        "Echo": 3,
+        "Hearth": 1,
+        "Origin": 2
+    },
+    "Origin": {
+        "Echo": 2,
+        "Hearth": 2,
+        "Origin": 1
+    }
+}
