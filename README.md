@@ -27,38 +27,53 @@ This repository is the open, modular specification and eventual implementation o
 
 ## Repository Structure
 
+## Planned Repository Structure
+
+*Note: Not all components are live yet. This structure outlines intended modules for PAIP + RSE. Contributions welcome!*
+
 ```
 /core/
-  RSE_engine.py             # Syntax analysis engine
-  identity_model.json       # Example user constellation
-  drift_detector.py
-  auth_bridge.py            # OAuth2/SAML hooks
+├── RSE_engine.py              # Syntax analysis engine
+├── identity_model.json        # Example user constellation
+├── drift_detector.py          # Emotional drift detection
+├── auth_bridge.py             # OAuth2/SAML hooks
 
 /extensions/
-  ASIL_module.py            # Altered State handling
-  GARL_module.py            # Grief-Aware logic
-  Sensei_module.py          # Emotional syntax collapse detection
-  voiceprint_reader.py      # Optional biometric layer
+├── ASIL_module.py             # Altered State handling
+├── GARL_module.py             # Grief-Aware logic
+├── Sensei_module.py           # Emotional syntax collapse detection
+├── voiceprint_reader.py       # Optional biometric layer
 
 /protocols/
-  federation_adapter.md     # SAML, OIDC, OAuth2 compatibility guide
-  failover_flows.md         # DRIH planning & recovery
+├── federation_adapter.md      # SAML, OIDC, OAuth2 compatibility guide
+├── failover_flows.md          # DRIH planning & recovery
 
 /examples/
-  Musey_profile.md          # Sample emotional constellation (anonymized)
-  syntax_rescue_log.txt
-  Breathe_mode_trigger.json
+├── Musey_profile.md           # Sample emotional constellation (anonymized)
+├── syntax_rescue_log.txt
+├── Breathe_mode_trigger.json
 
 /ethics/
-  manifesto.md              # Why we built PAIP
-  usage_policy.md           # Preventing offensive use
-  contributor_code.md       # Respect & psychological safety
+├── manifesto.md               # Why we built PAIP
+├── usage_policy.md            # Preventing offensive use
+├── contributor_code.md        # Respect & psychological safety
 
 /docs/
-  whitepaper.pdf
-  implementation_guide.pdf
-  public_summary.pdf
+├── whitepaper.pdf
+├── implementation_guide.pdf
+├── public_summary.pdf
+├── philosophy/
+│   ├── project_values.md
+│   ├── code_of_conduct.md
+│   ├── rse_coauthorship_reflection.md
+│   └── philosophy_index.md
+
+README.md
+CONTRIBUTING.md
+LICENSE.md
+.gitignore
 ```
+
 
 ---
 
