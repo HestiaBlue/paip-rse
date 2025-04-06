@@ -1,0 +1,20 @@
+{
+  "emotional_recovery_songs": [
+    {
+      "id": "track_alpha",
+      "description": "Used for anxiety grounding",
+      "type": "ambient",
+      "trigger_time": "morning"
+    },
+    {
+      "id": "track_beta",
+      "description": "Used for grief recognition",
+      "type": "lyrical",
+      "trigger_time": "night"
+    }
+  ],
+  "reaction_modes": {
+    "track_alpha": "soften syntax drift",
+    "track_beta": "pause loop for memory access"
+  }
+}
